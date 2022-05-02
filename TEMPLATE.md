@@ -1,3 +1,7 @@
+### Hey
+I'm Kevin, I like programming and competing in Capture The Flag competitions (read: hacking). When I have the time, I upload writeups here for some of the more interesting challenges I solve, so feel free to check those out.
+
+### Summary
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
 Since then I pushed **{{ COMMITS }}** commits and contributed to **{{ REPOSITORIES }}** personal projects and **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
