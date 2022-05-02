@@ -1,6 +1,10 @@
+### Hey
+I'm Kevin, I like programming and competing in Capture The Flag competitions (read: hacking). When I have the time, I upload writeups here for some of the more interesting challenges I solve, so feel free to check those out.
+
+### Summary
 Joined Github **2** years ago.
 
-Since then I pushed **679** commits and contributed to **9** personal projects and **8** public repositories.
+Since then I pushed **680** commits and contributed to **9** personal projects and **8** public repositories.
 
 Most used languages across my projects:
 
